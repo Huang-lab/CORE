@@ -9,6 +9,8 @@ Hi! Welcome to Computational Omics Lab at Icahn School of Medicine at Mount Sina
 
 Link to the lab Google calendar, please email me with your gmail account if you need write access to the calendar. 
 >       https://calendar.google.com/calendar?cid=YmRnYWNia21vcGwxb2o1YjRjZDVmOTNxbnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+        For uprising meeting request with Kuan, please check "Office-hour" and sign up for availability a day in advance. 
+        If the project team decide to change a meeting time that we agreed upon, please update directly on the Google calendar. 
         For all paid employees (ie. tenrure/research-track professor, Postdoc, PhD, research staffs), please mark any of your absence for longer than half-a-day on the lab calendar and inform your team if that would affect your project meeting attendance. 
 
 # All Codes on GitHub
@@ -29,7 +31,7 @@ We use Slack for rapid intra-lab communication.
   Please send me a personal blurb for lab website (http://labs.icahn.mssm.edu/kuanhuanglab/members/). Note that we need an **alternative job title** of what you inspire to be for the team. 
 
 Campus wifi: https://icahn.mssm.edu/about/computer-services/network
->  User Name: “MSSMCAMPUS\(YOUR USERNAME)”
+>  User Name: “MSSMCAMPUS\YOUR USERNAME”
 > Password: “Your Domain Password”
 
 
